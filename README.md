@@ -9,7 +9,6 @@ A modern Todo application built with React, TypeScript, and Redux to efficiently
 - Edit existing tasks
 - Toggle task status (Pending/Completed)
 - Delete tasks
-- Responsive design for all devices
 
 ## Technologies
 
