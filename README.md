@@ -16,7 +16,7 @@ A modern Todo application built with React, TypeScript, and Redux to efficiently
 - TypeScript 4.9+
 - Redux Toolkit
 - Tailwind CSS
-- RESTful API integration
+- FastAPI integration
 
 ## Prerequisites
 
